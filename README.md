@@ -1,5 +1,5 @@
 # Projeto com README
-Um projeto de teste com um arquivo README 👌
+Um projeto de teste com um arquivo README 👌 2.0
 
 <img src="./tela.gif" alt="gif tela">
 
